@@ -43,3 +43,5 @@ Escolhemos realizar um protótipo sobre uma plataforma de streaming, somente par
 ● <a href="https://fonts.google.com/specimen/Inter](https://dafontfile.net/gotham-font-family-free-download.html">Gotham</a>; - Subtítulos  
 ● <a href= "https://fonts.google.com/specimen/Sora?query=sora">Sora</a>; - Textos (podendo aplicar as variações)  
 
+## Visualização do Wireframe no Figma 👇  
+### <a href= "https://www.figma.com/file/Dn1l4owKneJA0moYfll7kQ/Desafio---Wireframe-Figma-(Grupo-3)?type=design&node-id=0%3A1&mode=design&t=mXiZW2y6UukpYgkM-1">Desafio - Wireframe Figma</a>
